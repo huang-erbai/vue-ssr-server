@@ -11,9 +11,9 @@
     </parent>
 
     <groupId>com.erbai</groupId>
-    <artifactId>romantik-confession</artifactId>
+    <artifactId>vue-ssr-server</artifactId>
     <version>0.0.1</version>
-    <name>romantik-confession</name>
+    <name>vue-ssr-server</name>
     <packaging>pom</packaging>
 
     <modules>

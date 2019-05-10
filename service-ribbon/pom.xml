@@ -10,7 +10,7 @@
 
     <parent>
         <groupId>com.erbai</groupId>
-        <artifactId>romantik-confession</artifactId>
+        <artifactId>vue-ssr-server</artifactId>
         <version>0.0.1</version>
     </parent>
 
